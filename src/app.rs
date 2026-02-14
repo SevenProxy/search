@@ -22,6 +22,7 @@ pub fn App() -> Html {
                                 <button class="hover:bg-yellow-600 hover:border-white py-1 px-4 rounded-md border border-solid border-yellow-600 bg-black text-white">{"Search"}</button>
                             </div>
                         </div>
+
                     </section>
                 </div>
             </div>
