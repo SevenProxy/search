@@ -2,6 +2,6 @@
 	publish = "dist"
 
 [[headers]]
-	for "/*.wasm"
+	for = "/*.wasm"
 	[headers.value]
 		Content-Type = "application/wasm"
