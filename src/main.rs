@@ -1,5 +1,7 @@
 mod app;
 mod components;
+mod routes;
+mod page;
 
 use app::App;
 
